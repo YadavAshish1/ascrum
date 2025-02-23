@@ -1,0 +1,24 @@
+<svg width="2482" height="581" viewBox="0 0 515 100" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background color (optional) -->
+  <rect width="2482" height="581" fill="none" />
+
+  <!-- 1st Letter: T -->
+  <rect x="10" y="-7" rx="10" ry="10" width="95" height="115" fill="#6E7AB7"/>
+  <text x="58" y="60" fill="#FFFFFF" font-size="120" text-anchor="middle" dominant-baseline="middle" font-family="Arial" font-weight="bold">T</text>
+
+  <!-- 2nd Letter: E -->
+  <rect x="110" y="-7" rx="10" ry="10" width="95" height="115" fill="#6E7AB7"/>
+  <text x="158" y="60" fill="#FFFFFF" font-size="120" text-anchor="middle" dominant-baseline="middle" font-family="Arial" font-weight="bold">E</text>
+
+  <!-- 3rd Letter: E -->
+  <rect x="210" y="-7" rx="10" ry="10" width="95" height="115" fill="#6E7AB7"/>
+  <text x="258" y="60" fill="#FFFFFF" font-size="120" text-anchor="middle" dominant-baseline="middle" font-family="Arial" font-weight="bold">E</text>
+
+  <!-- 4th Letter: A -->
+  <rect x="310" y="-7" rx="10" ry="10" width="95" height="115" fill="#6E7AB7"/>
+  <text x="358" y="60" fill="#FFFFFF" font-size="120" text-anchor="middle" dominant-baseline="middle" font-family="Arial" font-weight="bold">A</text>
+
+  <!-- 5th Letter: M -->
+  <rect x="410" y="-7" rx="10" ry="10" width="95" height="115" fill="#6E7AB7"/>
+  <text x="458" y="60" fill="#FFFFFF" font-size="120" text-anchor="middle" dominant-baseline="middle" font-family="Arial" font-weight="bold">M</text>
+</svg>
